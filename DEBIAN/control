@@ -1,0 +1,12 @@
+Source: docker-nginx-reverse-proxy
+Package: docker-nginx-reverse-proxy
+Version: 1.5
+Section: devel
+Priority: optional
+Architecture: all
+Essential: no
+Pre-Depends: docker | docker-ce | docker-ee
+Maintainer: Krisztián Ferenczi <ferenczi.krisztian@gmail.com>
+Description: WF Docker Workflow supporter package
+Homepage: https://gitlab.webtown.hu/pub/wf
+Installed-Size: 30000
